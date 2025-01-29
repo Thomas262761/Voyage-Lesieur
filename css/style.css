@@ -143,6 +143,9 @@ margin-bottom: 60px;
 .conteneur-transport p{
     text-align: center;
 }
+.conteneur-transport-invisible{
+    display: none;
+}
 
 
 
